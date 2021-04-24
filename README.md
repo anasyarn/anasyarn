@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Md. Ibene Anas a rcross platform mobile application developer since 2020
+- 👋 Hi, I’m Md. Ibene Anas a cross platform mobile application developer since 2020
 - 👀 I’m interested in react-native, React ecosystem, node.js, and JS based frameworks
 - 🌱 I’m currently intended to learn other JS based frameworks like VUE.js
 - 💞️ I’m looking to collaborate on React, react-native and JS based projects.
