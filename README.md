@@ -45,7 +45,7 @@
   </a>
  
 </div>
- <h6>DMV Pizza is a restaurant preparing and delivering pizza based on 151 CENTERWAY, GREENBELT, MD, US. This mobile app is to improve and smooth their delivery operation. User can order and deliver their desired pizza from the popular pizza shop from home or anywhere. User have their precise location from google-map to ensure the delivery location. Built with cross platform framework (react-native), redux, integrated stripe payment gateway, google-map, and php based backend. Both frontend and backend are solely developed by @anasyarn under the supervision of Peoples IT Solution.<b> Currently this app is at the stage of apple app store test flight.</b></h6>
+ <h6>DMV Pizza is a restaurant, preparing and delivering pizza based on 151 CENTERWAY, GREENBELT, MD, US. This mobile app is to improve their delivery operation, and grow their business. User can order and deliver their desired pizza from the popular pizza shop from home or anywhere. User have their precise location from google-map to ensure the delivery location. Built with cross platform framework (react-native), redux, integrated stripe payment gateway, google-map, and php based backend. Both frontend and backend are solely developed by @anasyarn under the supervision of Peoples IT Solution.<b> Currently this app is at the stage of apple app store test flight.</b></h6>
 </div>
 
 <div>
