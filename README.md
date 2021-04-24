@@ -149,7 +149,7 @@
 
 <h3>More are coming soon.....................
  <h3>
-<h2>All the screenshots mentioned above are copyright reserved to individual company. Any type of distribution and usage without prior permission is strictly prohibited. Screenshots used here are only used as the showcase of developer's workdone history. Please feel free to claim any copyright issue at anasyarn@gmail.com</h2>
+<h2>All the screenshots mentioned above are copyright reserved to the respective companies. Any type of distribution and usage without prior permission is strictly prohibited. Screenshots are only used here as the showcase of developer's workdone history. Please feel free to claim any copyright issue at anasyarn@gmail.com</h2>
 <!---
 anasyarn/anasyarn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
