@@ -45,7 +45,7 @@
   </a>
  
 </div>
- <p class="desc">DMV Pizza is a restaurant preparing and delivering pizza based on 151 CENTERWAY, GREENBELT, MD, US. This mobile app is to improve and smooth their delivery operation. User can order and deliver their desired pizza from the popular pizza shop from home or anywhere. User have their precise location from google-map to ensure the delivery location. Built with cross platform framework (react-native), redux, integrated stripe payment gateway, google-map, and php based backend. Both frontend and backend are solely developed by @anasyarn under the supervision of Peoples IT Solution.<b> Currently this app is at the stage of apple app store test flight.</b></p>
+ <h1>DMV Pizza is a restaurant preparing and delivering pizza based on 151 CENTERWAY, GREENBELT, MD, US. This mobile app is to improve and smooth their delivery operation. User can order and deliver their desired pizza from the popular pizza shop from home or anywhere. User have their precise location from google-map to ensure the delivery location. Built with cross platform framework (react-native), redux, integrated stripe payment gateway, google-map, and php based backend. Both frontend and backend are solely developed by @anasyarn under the supervision of Peoples IT Solution.<b> Currently this app is at the stage of apple app store test flight.</b></h1>
 </div>
 
 <div>
@@ -81,7 +81,7 @@
 
  
 </div>
- <p class="desc">City Skin Center is a skin care based Clinic at Shantinagar, Dhaka. They have numerous number of patients. This app is developed focusing if patients can book an appointment, pay their appointment fee, also can see their prescriptions. In previous release this app is fetaured to do video conference using WebRTc. Having some issue this feature is currently deprecated, and hoping to add soon. This app is also built with popular cross-platform framework (react-native), google-maps, integrated aamarpay payment api, php based backend and more. Both frontend and backend are solely developed by @anasyarn under the supervision of Peoples IT Solution.<b> This app is about to be published at Google Play Store.</b></p>
+ <p>City Skin Center is a skin care based Clinic at Shantinagar, Dhaka. They have numerous number of patients. This app is developed focusing if patients can book an appointment, pay their appointment fee, also can see their prescriptions. In previous release this app is fetaured to do video conference using WebRTc. Having some issue this feature is currently deprecated, and hoping to add soon. This app is also built with popular cross-platform framework (react-native), google-maps, integrated aamarpay payment api, php based backend and more. Both frontend and backend are solely developed by @anasyarn under the supervision of Peoples IT Solution.<b> This app is about to be published at Google Play Store.</b></p>
 </div>
 
 <div>
