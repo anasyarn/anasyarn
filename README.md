@@ -45,7 +45,7 @@
   </a>
  
 </div>
- <p style="font-size: 18px;">DMV Pizza is a restaurant preparing and delivering pizza based on 151 CENTERWAY, GREENBELT, MD, US. This mobile app is to improve and smooth their delivery operation. User can order and deliver their desired pizza from the popular pizza shop from home or anywhere. User have their precise location from google-map to ensure the delivery location. Built with cross platform framework (react-native), redux, integrated stripe payment gateway, google-map, and php based backend. Both frontend and backend are solely developed by @anasyarn under the supervision of Peoples IT Solution.<b> Currently this app is at the stage of apple app store test flight.</b></p>
+ <h6>DMV Pizza is a restaurant preparing and delivering pizza based on 151 CENTERWAY, GREENBELT, MD, US. This mobile app is to improve and smooth their delivery operation. User can order and deliver their desired pizza from the popular pizza shop from home or anywhere. User have their precise location from google-map to ensure the delivery location. Built with cross platform framework (react-native), redux, integrated stripe payment gateway, google-map, and php based backend. Both frontend and backend are solely developed by @anasyarn under the supervision of Peoples IT Solution.<b> Currently this app is at the stage of apple app store test flight.</b></h6>
 </div>
 
 <div>
@@ -81,7 +81,7 @@
 
  
 </div>
- <p>City Skin Center is a skin care based Clinic at Shantinagar, Dhaka. They have numerous number of patients. This app is developed focusing if patients can book an appointment, pay their appointment fee, also can see their prescriptions. In previous release this app is fetaured to do video conference using WebRTc. Having some issue this feature is currently deprecated, and hoping to add soon. This app is also built with popular cross-platform framework (react-native), google-maps, integrated aamarpay payment api, php based backend and more. Both frontend and backend are solely developed by @anasyarn under the supervision of Peoples IT Solution.<b> This app is about to be published at Google Play Store.</b></p>
+ <h6>City Skin Center is a skin care based Clinic at Shantinagar, Dhaka. They have numerous number of patients. This app is developed focusing if patients can book an appointment, pay their appointment fee, also can see their prescriptions. In previous release this app is fetaured to do video conference using WebRTc. Having some issue this feature is currently deprecated, and hoping to add soon. This app is also built with popular cross-platform framework (react-native), google-maps, integrated aamarpay payment api, php based backend and more. Both frontend and backend are solely developed by @anasyarn under the supervision of Peoples IT Solution.<b> This app is about to be published at Google Play Store.</b></h6>
 </div>
 
 <div>
@@ -117,7 +117,7 @@
 
  
 </div>
- <p class="desc">Zenfood is a multi vendor based grocery and food delivery app. Ordering food, tracking order, push notification, in-app chat feature are some of the core features. This app is also built with popular cross-platform framework (react-native), google-maps, firebase, push-notification, mongoDB, and node.js based backend. Ive worked mostly on frontend also in backed (in-some-cases) with collaboration of other developers.<b> This app is already availabe at Google Play Store.</b></p>
+ <h6>Zenfood is a multi vendor based grocery and food delivery app. Ordering food, tracking order, push notification, in-app chat feature are some of the core features. This app is also built with popular cross-platform framework (react-native), google-maps, firebase, push-notification, mongoDB, and node.js based backend. Ive worked mostly on frontend also in backed (in-some-cases) with collaboration of other developers.<b> This app is already availabe at Google Play Store.</b></h6>
 </div>
 <div>
   <h3 style="text-align: center;">Zenfood Partner
@@ -143,7 +143,7 @@
 
  
 </div>
- <p class="desc">Zenfood Partner is the app built for sellers at zenfood. Using the app, seller can dispatch and monitor their orders, show statistics and lot more.Built with cross platform framework (react-native), integrated stripe payment gateway, firebase, push-notification, mongoDB and node.js based backend. This was also a collaborating project and i was forontend developer.<b> This app is also available at Google Play Store.</b></p>
+ <h6 class="desc">Zenfood Partner is the app built for sellers at zenfood. Using the app, seller can dispatch and monitor their orders, show statistics and lot more.Built with cross platform framework (react-native), integrated stripe payment gateway, firebase, push-notification, mongoDB and node.js based backend. This was also a collaborating project and i was forontend developer.<b> This app is also available at Google Play Store.</b></h6>
 </div>
 
 
