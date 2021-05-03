@@ -81,7 +81,7 @@
 
  
 </div>
- <h6>City Skin Center is a skin care based Clinic at Shantinagar, Dhaka. They have numerous number of patients. This app is developed focusing if patients can book an appointment, pay their appointment fee, also can see their prescriptions. In previous release this app is fetaured to do video conference using WebRTc. Having some issue this feature is currently deprecated, and hoping to add soon. This app is also built with popular cross-platform framework (react-native), google-maps, integrated aamarpay payment api, php based backend and more. Both frontend and backend are solely developed by @anasyarn under the supervision of Peoples IT Solution.<b> This app is about to be published at Google Play Store.</b></h6>
+ <h6>City Skin Center is a skin care based Clinic at Shantinagar, Dhaka. They have numerous number of patients. This app is developed focusing if patients can book an appointment, pay their appointment fee, also can see their prescriptions. In previous release this app is fetaured to do video conference using WebRTc. Having some issue this feature is currently deprecated, and hoping to add soon. This app is also built with popular cross-platform framework (react-native), google-maps, integrated aamarpay payment gateway, php based backend and more. Both frontend and backend are solely developed by @anasyarn under the supervision of Peoples IT Solution.<b> This app is available at <a href="https://play.google.com/store/apps/details?id=com.cscuser">Google Play Store.</a></b></h6>
 </div>
 
 <div>
