@@ -1,8 +1,18 @@
 <h1 align="center">Hi 👋, I'm Md Ibene Anas</h1>
 <h3 align="center">A passionate and self-taught full-stack developer, currently living in Helsinki, Finland.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anasyarn&label=Profile%20views&color=0e75b6&style=flat" alt="anasyarn" /> </p>
-
+<h2 align="center"> 
+  Hi There 
+  <br>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px">
+  <br>
+  Thanks 💙 For Being A Valuable Visitor of My Profile Among
+  <br>
+  <br>
+  <p align="center">
+  <img src="https://profile-counter.glitch.me/showrin/count.svg" border="0" title="free hit counter" alt="free hit counter">
+  </p>
+</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasyarn" alt="anasyarn" /></a> </p>
 
 - 🔭 I’m currently working on **My portfolio**
