@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Md Ibene Anas</h1>
-<h3 align="center">A passionate and self-taught full-stack developer, currently living in Helsinki, Finland.</h3>
-
-<h2 align="center"> 
-  Hi There 
+<h1 align="center" Hi There,
   <br>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px">
   <br>
+  </h1>
+<h3 align="center">A passionate and self-taught full-stack developer, currently living in Helsinki, Finland.</h3>
+
+<h2 align="center"> 
   Thanks 💙 For Being A Valuable Visitor of My Profile Among
   <br>
   <br>
