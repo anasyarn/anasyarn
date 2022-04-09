@@ -10,7 +10,7 @@
   <br>
   <br>
   <p align="center">
-  <img src="https://profile-counter.glitch.me/showrin/count.svg" border="0" title="free hit counter" alt="free hit counter">
+  <img src="https://profile-counter.glitch.me/anasyarn/count.svg" border="0" title="free hit counter" alt="free hit counter">
   </p>
 </h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anasyarn" alt="anasyarn" /></a> </p>
